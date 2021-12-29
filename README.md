@@ -165,8 +165,13 @@ These advances in label and computational efficiency make data selection applica
 
 [Data Privacy Area Page](data-privacy.md)
 
-_This description is a stub, you can help by improving it._
+Data Privacy in Data-Centri AI pivots around a few requirements: purpose limitation, retention, and data minimization. 
+- Purpose limitation: Assumes that all data sources used in the ML model are lineage tracked through the ML process thus enabling usage gurantees. Moreover, it requires white-box understanding of the features used in the ML Model to identify various edge cases like data is average across 100s of users.
+- Retention: Requires deletion of data and periodic retraining of the model with just the additional new data to avoid computation overhead of retraining the whole model.
+- Data Minimization: Identifies the minimal amount of data to produce the best possible outcome of a machiene learning model.
 
+
+A data-centric approach to the above 3 requirements is the use of redundant data and features thus providing gurantees that purpose limitation, retention and data minimization are guranteed.
 
 <h1 id="dataflow">Data Flow  (Under Construction)</h1>
 
