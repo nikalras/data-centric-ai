@@ -22,5 +22,6 @@ The following individuals and organizations have contributed to the development 
 - Huaizheng Zhang from NTU added discussion to MLOps
 - Ying Sheng from Google added a case study for GMail
 - Rolando Garcia from UC-Berkeley added discussion on model debugging
+- Nikon Rasumov-Rahe from Meta added to the discussion on Privacy
 
 Thanks to everyone who has provided feedback on this resource, including Jacob Steinhardt at UC-Berkeley, James Zou, Matei Zaharia, Daniel Kang, Chelsea Finn from Stanford, Mike Cafarella from MIT, Ameet Talkwalkar from CMU.
